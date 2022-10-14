@@ -1,5 +1,5 @@
 # ASG2-SEC1
-**This file contains the header file, source file, readme file and output screenshot of the code for CS-700 ASSIGNMENT 2 SECTION 1.**
+**This repository contains the header file, source file, readme file and output screenshot of the code for CS-700 ASSIGNMENT 2 SECTION 1.**
 
 HEADER FILE
 This file contains three functions.
